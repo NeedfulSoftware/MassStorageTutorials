@@ -1,5 +1,4 @@
-# NeedfulSoftware
-# Mass Storage Tutorials
+# NeedfulSoftware - Mass Storage Tutorials
 
 This repository contains the examples for our [mass storage tutorials](http://www.needfulsoftware.com/Documentation/MassStorage).
 
